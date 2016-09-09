@@ -4,3 +4,6 @@
 
 创建web项目：
   mvn archetype:generate -DgroupId=cn.test.Servlet -DartifactId=Servlet3Test -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
+
+打成war包：
+  mvn package
