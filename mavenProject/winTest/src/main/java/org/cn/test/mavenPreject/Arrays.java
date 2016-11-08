@@ -1,7 +1,7 @@
 /*
  * Arrays.asList()字符串数组转化List
  * Arrays.toString()将字符串数组转化成字符串
- *
+ * Lamda表达式：排序，循环打印
  */
 
 
